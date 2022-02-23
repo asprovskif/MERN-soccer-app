@@ -1,3 +1,3 @@
 # MERN-soccer-app
 
-PLaying araound with MERN stack
+PLaying around with the MERN stack.
